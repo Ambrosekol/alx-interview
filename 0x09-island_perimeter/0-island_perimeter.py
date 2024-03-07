@@ -3,6 +3,7 @@
 This is an ALX interview coding task
 """
 
+
 def island_perimeter(grid):
     """
     This function returns the perimeter of the
